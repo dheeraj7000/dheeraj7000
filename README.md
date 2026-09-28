@@ -1,14 +1,14 @@
 # Hi there, I'm Dheeraj Kumar 👋
 
-**ML Research Engineer · NLP & Agentic Systems · CS @ Arizona State University**
+**ML Engineer · NLP & Agentic Systems · M.S. CS @ Arizona State University (Expected Dec 2026)**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=dheeraj7000&color=blue&style=flat-square)
 
 ### 🚀 About Me
 
-- 🔬 **ML Research/Engineering @ Pinpoint Technologies LLC** (May 2026 – August 2026) — designing graph neural network models with PyTorch Geometric for richer relational representations on network data, plus data/feature pipelines and applied research on graph-based learning
+- 🔬 **ML Research @ Pinpoint Technologies LLC** (Apr – Aug 2026) — co-authored SPOQ (arXiv:2606.03115) on multi-agent orchestration and built its benchmark harness (1.3–5.3× speedup over sequential execution); shipped the evaluation harness and release exit gate for the SPECTRE LLM security scanner (Rust/Python)
 - 🧠 Previously **NLP Engineer Intern @ Time Pilot** (Sep 2024 – Mar 2025) — FastAPI services connecting ML models to production apps, embedding models, prompt engineering, and fine-tuning multitask classification/generation models
-- 🎓 **B.S. Computer Science, Arizona State University** (2025 – 2026) — GPA 3.56; coursework in knowledge representation, NLP, statistical machine learning, and large-scale data processing
+- 🎓 **M.S. Computer Science, Arizona State University** (Expected Dec 2026) — GPA 3.56; coursework in knowledge representation, NLP, statistical machine learning, and large-scale data processing
 - 🌱 Currently exploring **continual learning for LLM agents** and **agentic systems design**
 - 📫 Reach me: [dkumar70@asu.edu](mailto:dkumar70@asu.edu)
 
